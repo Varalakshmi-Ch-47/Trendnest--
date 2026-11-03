@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Steel water bottle">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ccfbf1"/>
+      <stop offset="1" stop-color="#99f6e4"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <ellipse cx="200" cy="262" rx="110" ry="10" fill="#000" opacity="0.08"/>
+
+  <rect x="175" y="40" width="50" height="26" rx="6" fill="#0f172a"/>
+  <rect x="182" y="64" width="36" height="14" fill="#475569"/>
+  <path d="M170 78 L230 78 C246 78 252 90 252 106 L252 232 C252 246 244 254 230 254 L170 254 C156 254 148 246 148 232 L148 106 C148 90 154 78 170 78 Z" fill="#0d9488"/>
+  <rect x="148" y="150" width="104" height="48" fill="#0f766e"/>
+  <rect x="164" y="88" width="10" height="150" rx="5" fill="#fff" opacity="0.28"/>
+  <circle cx="200" cy="174" r="12" fill="#ccfbf1"/>
+
+</svg>

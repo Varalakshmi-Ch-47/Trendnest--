@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Denim jeans">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e0f2fe"/>
+      <stop offset="1" stop-color="#bae6fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <ellipse cx="200" cy="262" rx="110" ry="10" fill="#000" opacity="0.08"/>
+
+  <path d="M130 40 L270 40 L282 255 L216 255 L200 120 L184 255 L118 255 Z" fill="#1d4ed8"/>
+  <rect x="130" y="40" width="140" height="24" fill="#1e40af"/>
+  <path d="M200 64 L200 120" stroke="#93c5fd" stroke-width="2" stroke-dasharray="5 4"/>
+  <path d="M148 64 Q166 92 190 90" fill="none" stroke="#93c5fd" stroke-width="2" stroke-dasharray="5 4"/>
+  <path d="M252 64 Q234 92 210 90" fill="none" stroke="#93c5fd" stroke-width="2" stroke-dasharray="5 4"/>
+  <circle cx="200" cy="52" r="5" fill="#fbbf24"/>
+  <path d="M120 238 L184 238 M216 238 L280 238" stroke="#93c5fd" stroke-width="2" stroke-dasharray="5 4"/>
+
+</svg>

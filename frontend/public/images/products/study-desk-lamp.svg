@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Study desk lamp">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fef9c3"/>
+      <stop offset="1" stop-color="#fef08a"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <ellipse cx="200" cy="262" rx="110" ry="10" fill="#000" opacity="0.08"/>
+
+  <ellipse cx="200" cy="238" rx="60" ry="14" fill="#374151"/>
+  <rect x="188" y="226" width="24" height="12" fill="#374151"/>
+  <path d="M200 228 L160 140" stroke="#4b5563" stroke-width="9" stroke-linecap="round"/>
+  <path d="M160 140 L225 80" stroke="#4b5563" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="160" cy="140" r="9" fill="#9ca3af"/>
+  <path d="M205 56 L270 92 L246 124 L186 86 Z" fill="#eab308"/>
+  <path d="M246 124 L290 190 L214 190 L186 86" fill="#fde047" opacity="0.45"/>
+
+</svg>

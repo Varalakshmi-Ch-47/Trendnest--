@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Java programming book">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ede9fe"/>
+      <stop offset="1" stop-color="#ddd6fe"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <ellipse cx="200" cy="262" rx="110" ry="10" fill="#000" opacity="0.08"/>
+
+  <rect x="120" y="40" width="160" height="220" rx="8" fill="#5b21b6"/>
+  <rect x="120" y="40" width="22" height="220" rx="4" fill="#4c1d95"/>
+  <rect x="152" y="62" width="112" height="60" rx="4" fill="#ede9fe"/>
+  <text x="208" y="102" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="800" fill="#5b21b6">Java</text>
+  <path d="M190 172 C176 190 206 192 190 208 C214 190 184 188 198 172" fill="none" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M214 214 L214 188 M226 214 L226 188 M214 188 L226 188" stroke="#ede9fe" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <rect x="152" y="228" width="112" height="6" rx="3" fill="#a78bfa"/>
+
+</svg>

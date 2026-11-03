@@ -1,0 +1,31 @@
+.dialog-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  z-index: 90;
+}
+
+.dialog {
+  width: 100%;
+  max-width: 420px;
+  padding: 1.25rem;
+}
+
+.dialog h2 {
+  font-size: 1.2rem;
+}
+
+.dialog p {
+  margin: 0 0 1.25rem;
+  color: var(--color-muted);
+}
+
+.dialog-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+}

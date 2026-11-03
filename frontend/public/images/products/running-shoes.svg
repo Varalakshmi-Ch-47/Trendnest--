@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Running shoes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffedd5"/>
+      <stop offset="1" stop-color="#fed7aa"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <ellipse cx="200" cy="262" rx="110" ry="10" fill="#000" opacity="0.08"/>
+
+  <path d="M65 190 C65 150 85 130 110 130 L145 130 C160 130 165 112 185 112 C215 112 225 150 260 160 C315 170 340 180 340 205 L340 218 L65 218 Z" fill="#ea580c"/>
+  <path d="M65 205 L340 205 L340 232 C340 238 335 242 328 242 L77 242 C70 242 65 238 65 232 Z" fill="#fff7ed" stroke="#fdba74" stroke-width="3"/>
+  <path d="M110 130 L110 190 M145 130 C150 150 152 170 150 190" stroke="#fed7aa" stroke-width="3" fill="none"/>
+  <path d="M178 124 L196 140 M192 118 L210 134 M206 126 L222 142" stroke="#fff7ed" stroke-width="4" stroke-linecap="round"/>
+  <path d="M230 168 C255 175 290 178 320 186" stroke="#fff7ed" stroke-width="5" stroke-linecap="round" fill="none"/>
+
+</svg>
